@@ -1,0 +1,3 @@
+# submodule1
+submodule1
+直接在主仓库更新submodule仓库的代码并提交，submodule仓库也可以更新到
